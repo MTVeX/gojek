@@ -11,11 +11,13 @@ function generateRandomString($length = 10) {
 $kodepromo = "GOJEKINAJA";
 $Phonemodel = generateRandomString(5);
 $XUniqueid = generateRandomString(16);
-echo '#################################';
+echo '      GOJEK ACCOUNT REGISTER      ';
 echo "\r\n";
-echo '#         @MTVeX | SMG          #';
+echo '###################################';
 echo "\r\n";
-echo '#################################';
+echo '#          @MTVeX | SMG           #';
+echo "\r\n";
+echo '###################################';
 echo "\r\n";
 echo 'Input Phone Number With Nation Code'; 
 echo "\r\n";
