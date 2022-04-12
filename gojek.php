@@ -8,7 +8,7 @@ function generateRandomString($length = 10) {
     }
     return $randomString;
 }
-$kodepromo = "BERKAHGOJEK";
+$kodepromo = "GOJEKINAJA";
 $Phonemodel = generateRandomString(5);
 $XUniqueid = generateRandomString(16);
 echo "\r\n";
